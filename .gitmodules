@@ -14,3 +14,9 @@
 	path = neoprism
 	url = https://github.com/hyperledger-identus/neoprism.git
 	branch = main
+[submodule "prism-did-method-spec"]
+	path = prism-did-method-spec
+	url = https://github.com/input-output-hk/prism-did-method-spec
+[submodule "vdr"]
+	path = vdr
+	url = https://github.com/hyperledger-identus/vdr
