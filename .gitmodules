@@ -1,0 +1,16 @@
+[submodule "acapy"]
+	path = acapy
+	url = https://github.com/openwallet-foundation/acapy.git
+	branch = main
+[submodule "credo-ts"]
+	path = credo-ts
+	url = https://github.com/openwallet-foundation/credo-ts.git
+	branch = main
+[submodule "sdk-ts"]
+	path = sdk-ts
+	url = https://github.com/hyperledger-identus/sdk-ts.git
+	branch = main
+[submodule "neoprism"]
+	path = neoprism
+	url = https://github.com/hyperledger-identus/neoprism.git
+	branch = main
