@@ -13,5 +13,6 @@ This folder captures the current state of research for bringing the `did:prism` 
 - [`prism-did-adoption/07-recommendations-risks.md`](./prism-did-adoption/07-recommendations-risks.md) – Implementation recommendations, phased rollout narrative, and risk register.
 - [`prism-did-adoption/08-decisions-testing-docs.md`](./prism-did-adoption/08-decisions-testing-docs.md) – Outstanding decisions/tradeoffs, documentation backlog, and the proposed unit/integration/e2e test matrix.
 - [`prism-did-adoption/09-vdr-requirements.md`](./prism-did-adoption/09-vdr-requirements.md) – VDR requirements for ACA-Py and Credo-TS aligned with the PRISM VDR specification and resulting action items.
+- [`prism-did-adoption/10-prism-backlog.md`](./prism-did-adoption/10-prism-backlog.md) – Backlog-style plan covering all phases/tasks needed to deliver PRISM DID/VDR support in ACA-Py and Credo-TS.
 
 Each document references the exact files/lines within this repository (or included submodules) that informed the findings so you can trace every recommendation back to source material.
